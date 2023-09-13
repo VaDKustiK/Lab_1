@@ -7,4 +7,4 @@ while (p <= L)
     n += 3;
     p = p * n;
 }
-Console.WriteLine(n);
+Console.WriteLine(n-3);
