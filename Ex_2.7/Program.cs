@@ -7,7 +7,7 @@ double s1 = 10;
 // 8 (A)
 int n1 = 0;
 
-while (n1 <= 7)
+while (n1 <= 7-1)
 {
     n1 += 1;
     x1 += s1;
